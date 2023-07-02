@@ -1,0 +1,45 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch nishit3",
+      "request": "launch",
+      "mainClass": "nishit3",
+      "projectName": "4_5e35288e"
+    },
+    {
+      "type": "java",
+      "name": "Launch nishit2",
+      "request": "launch",
+      "mainClass": "nishit2",
+      "projectName": "4_5e35288e"
+    },
+    {
+      "type": "java",
+      "name": "Launch nishit1",
+      "request": "launch",
+      "mainClass": "nishit1",
+      "projectName": "4_5e35288e"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Yash/Desktop/4",
+      "program": "c:/Users/Yash/Desktop/4/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
